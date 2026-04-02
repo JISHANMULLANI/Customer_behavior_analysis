@@ -123,8 +123,8 @@ Steps:
 * Clean and modular project structure
 
 ---
-
-
+📷 Dashboard Preview
+<img width="1352" height="736" alt="Screenshot 2026-04-02 171135" src="https://github.com/user-attachments/assets/e9ceb059-b83d-48e3-a5c1-69f47064d0d0" />
 
 ## 🧠 Learning Outcomes
 
