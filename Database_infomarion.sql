@@ -1,4 +1,4 @@
-CREATE DATABASE customer_behavior;
+CREATE DATABASE IF NOT EXISTS customer_behavior;
 USE customer_behavior;
 
 -- Q1. Total revenue by gender
@@ -20,3 +20,5 @@ SELECT subscription_status,
 FROM customer
 WHERE previous_purchases > 5
 GROUP BY subscription_status;
+
+
